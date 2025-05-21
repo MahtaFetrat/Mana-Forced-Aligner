@@ -56,9 +56,9 @@ The algorithm uses **Interval Search** first, then **Gapped Search** only if nee
 
 ## Getting Started
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fWTy4IH2tSuOLrLSD8E8LMaUlI_Gnf-e?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UPn4rdJhBevur9R7Rm6tUz3KrQSKFaoe?usp=sharing) 
 
-You can use the pipeline via [this Colab notebook](https://colab.research.google.com/drive/1fWTy4IH2tSuOLrLSD8E8LMaUlI_Gnf-e?usp=sharing)
+You can use the forced alignment method via [Colab](https://colab.research.google.com/drive/1UPn4rdJhBevur9R7Rm6tUz3KrQSKFaoe?usp=sharing) or [the forced alignment notebook](ManaTTS-Forced-Aligner.ipynb) in this repository.
 
 💡 To adapt it for your language, simply embed **one or more ASR models** (the more the better!) that work for your language into the transcription module section of the notebook.
 
