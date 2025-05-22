@@ -1,10 +1,10 @@
-# ManaTTS Forced Aligner: Robust Forced Alignment for Low-Resource Languages
+# Mana Forced Aligner: Robust Forced Alignment for Low-Resource Languages
 
 **Want to create a speech dataset, but current forced alignment tools don’t work for your setup?**
 
-**ManaTTS Forced Aligner** is a robust, language-agnostic forced alignment module designed specifically for **low-resource languages** and imperfect audio-text matches. Unlike traditional tools like Aeneas, our method **does not require a perfect match between audio and text**. It tolerates skipped words, repetitions, or inconsistencies, using **multiple ASR models** and **character-level text similarity** with predefined thresholds.
+**Mana Forced Aligner** is a robust, language-agnostic forced alignment module designed specifically for **low-resource languages** and imperfect audio-text matches. Unlike traditional tools like Aeneas, our method **does not require a perfect match between audio and text**. It tolerates skipped words, repetitions, or inconsistencies, using **multiple ASR models** and **character-level text similarity** with predefined thresholds.
 
-## Why Use ManaTTS Forced Aligner?
+## Why Use Mana Forced Aligner?
 
 🧠 **ASR-Agnostic and Scalable**: Use *one or more automatic speech recognition (ASR) models*, regardless of their quality.
 The aligner is designed to work even with imperfect ASRs. However, **the more ASR models you provide, the more robust and accurate the alignment becomes**, thanks to majority-voting and fallback mechanisms.
@@ -79,7 +79,7 @@ You can use the forced alignment method via [Colab](https://colab.research.googl
 
 ## Citation
 
-If you use ManaTTS Forced Aligner in your work, please cite:
+If you use Mana Forced Aligner in your work, please cite:
 
 ```bibtex
 @inproceedings{qharabagh-etal-2025-manatts,
