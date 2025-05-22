@@ -54,6 +54,17 @@ The algorithm uses **Interval Search** first, then **Gapped Search** only if nee
 
 ---
 
+## 📦 Datasets Created with This Pipeline
+
+| Dataset Name      | Language | Size     | License | Links                                                                                                                                                                                                                                                                                                                     |
+| ----------------- | -------- | -------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ManaTTS**       | Persian  | 102+ hrs | CC-0    | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-dataset-orange)](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS) [![GitHub](https://img.shields.io/github/stars/MahtaFetrat/ManaTTS-Persian-Speech-Dataset?label=GitHub\&style=social)](https://github.com/MahtaFetrat/ManaTTS-Persian-Speech-Dataset) |
+| **Quran-Persian** | Persian  | 20+ hrs  | CC-0    | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-dataset-orange)](https://huggingface.co/datasets/MahtaFetrat/Quran-Persian)                                                                                                                                                                                  |
+
+Feel free to reach out if you'd like yours featured.
+
+---
+
 ## Getting Started
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UPn4rdJhBevur9R7Rm6tUz3KrQSKFaoe?usp=sharing) 
@@ -68,12 +79,6 @@ You can use the forced alignment method via [Colab](https://colab.research.googl
 
 * Actively tested on **Persian**
 * Easily customizable for other low-resource languages with available ASR models
-
----
-
-## License
-
-* MIT License
 
 ---
 
